@@ -3,17 +3,14 @@
     "capabilities": [
         ""
     ],
-    "companyName": "matstos",
-    "longName": "import_tester",
+    "companyName": "p-etter",
+    "longName": "harold",
     "projectType": "native",
     "resources": {
         "media": []
     },
-    "shortName": "import_tester",
-    "uuid": "76820595-2a0c-4c36-8a78-dffa7ef7f638",
+    "shortName": "harold",
+    "uuid": "3bfde48b-979a-4204-b410-dd6a15bef704",
     "versionCode": 1,
-    "versionLabel": "1.0",
-    "watchapp": {
-        "watchface": false
-    }
+    "versionLabel": "1.0"
 }
