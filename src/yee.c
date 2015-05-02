@@ -15,7 +15,7 @@
  * @defgroup blinky_example_main main.c
  * @{
  * @ingroup blinky_example
- * @brief Blinky Example Application main file.
+ * @brief Blinky Example Application main file.q    3r2q    r3    q3r
  *
  */
 qwerqwerWYTWERY
