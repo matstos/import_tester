@@ -24,7 +24,7 @@ qwerqwerWYTWERY
 #include "nrf_delay.h"
 #include "nrf_gpio.h"
 #include "boards.h"
-
+#unclude "my_ass"
 const uint8_t leds_list[LEDS_NUMBER] = LEDS_LIST;
 
 /**
