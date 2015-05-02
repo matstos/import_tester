@@ -18,7 +18,7 @@
  * @brief Blinky Example Application main file.
  *
  */
-qwerqwer
+qwerqwerWYTWERY
 #include <stdbool.h>
 #include <stdint.h>
 #include "nrf_delay.h"
