@@ -3,14 +3,14 @@
     "capabilities": [
         ""
     ],
-    "companyName": "",
-    "longName": "",
-    "projectType": "",
+    "companyName": "matstos",
+    "longName": "import_tester",
+    "projectType": "native",
     "resources": {
         "media": []
     },
-    "shortName": "",
-    "uuid": "",
+    "shortName": "import_tester",
+    "uuid": "76820595-2a0c-4c36-8a78-dffa7ef7f638",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
