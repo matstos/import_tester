@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "",
+    "longName": "",
+    "projectType": "",
+    "resources": {
+        "media": []
+    },
+    "shortName": "",
+    "uuid": "",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
